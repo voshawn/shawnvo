@@ -1,34 +1,21 @@
 # How to Shawn
-Pull Requests Welcome!
+Pull requests welcome!
 
 ### What is this?
-Hi, I'm so glad you decided to work with us. In order to make this an awesome
+Hi, I'm so glad we are working together. In order to make this an awesome
 relationship, there are some things I thought you should know about me.
 
 Keep in mind that this document, like myself, is a work in progress. Issues and
 pull requests are welcome!
 
 ### About My Job
-Right now, our company in a phase where we all where multiple hats. For me, I
-need to be a people manager, a company operator, and a software
-engineer. Right now, those are in order of relative importance.
-
-**People Manager**: Our company needs to attact and maintain the best
+Our company needs to attact and maintain the best
 people. My job is to empower you do meaningful work and lead a dope life
-so that you're where you want to be and you're growing at the
-rate you want. I hope that by creating that enviroment, you'll stay for a
-long time.
+so that you're where you want to be and growing at the rate you want. 
+I hope that by creating that enviroment, we can work together for a long time.
 
-**Company Operator**: I need to make sure that the company is running smoothly,
-that everyone is playing nicely, and that we are moving in the right direction.
-A lot of the time, this is making sure things are organized and that tasks are completed,
-but many times it's making tough decisions.
-
-**Software Engineer**: Given our stage, I am still writing a lot of code.
-Writing great code and making smart technical decisions are somethings
-that takes concentation and requires a lot of context. I am aware that this
-trades off with being readily available. This is why I have developed a system
-that I think works well.
+But since, we're super small, I also have to spend alot of time writing code 
+and making sure everything is running smoothly.
 
 ### Communication
 In general, I am always available on Slack. However, if you have a non-urgent
@@ -45,16 +32,16 @@ generally on silent to avoid distractions.
 
 ### Meetings
 I am a firm believer in being prepared for meetings. If you can, please do as
-much prework as you can so the meeting is more productive.
+much pre-work as you can so the meeting is more productive.
 
 Feel free to book time on my calendar between 10am and 4pm. Before 10 and after 4, I am
 usually coding or engaged in deep work
 
 In general, we have two types of meetings:
-#### Working meetings
+##### Working meetings
 This is where we focus on the company. We use this time to solve some problem, share information, or make a
-decision.
-#### Personal 1:1s
+decision. We should know what the goal of the meeting is.
+##### Personal 1:1s
 This is where we focus on you. You tell me what's good or bad. Tell me how I
 can make your life easier. A good framework is tell me things you want **more of,
 less of, or to stop**. We can focus on things that are beyond the moment like
@@ -63,38 +50,38 @@ your personal / career development. Talk about anything / everything!
 ### Feedback
 I think feedback should:
 - Include positive and negative
-- Be delievered in a safe enviroment if it's negative
 - Be delivered as real-time as possible
 - Have the intention of helping the other person grow
 - Address the behavior or action, not the person
 - Be actionable
-#### How I Give
+We should feel safe delivering feedback to each other. There will never be any punishment for delivering feedback. 
+##### How I Give
 - If it's coding / engineering related, I will most likely tell you as I notice it.
 It will probably be unstructured. These will be more like *Learning Moments*,
 so feel free to ask questions to clarify.
 - If it's a behavioral thing, I will tell you how important it is, why it's
 good or bad, what I think you should do.
-#### How I Receive
+##### How I Receive
 - Be direct, calm, and serious. If it is delivered jokingly, I might not take it
 seriously or think it's a real problem.
 - I appreciate things when they are delivered in a rational, not emotional way.
-- Help me understand the "why" and help me come up with a solution.
+- Help me understand the *why* and help me come up with a *solution*.
 - If I get defensive, it's more likely because I am trying to understand the rational,
 not because I'm getting upset.
 
 ### Principles / Values
 In addition to the company values, here are some things that I really like.
--**Deep Work**: I think that in order to be really innovative or write great
+- **Deep Work**: I think that in order to be really innovative or write great
 code, we need have uniterrupted time. I will try to respect your deep work time
 so let me know if I'm bothering you.
--**Resourcefulness**: Sometimes we need novel solutions.
+- **Resourcefulness**: Sometimes we need novel solutions.
 Sometimes we just need to look it up. For things that we can look up, always
 try to google it before reinventing the wheel or asking around.
--**Be forward looking**: It's more important to me that the bug never happens
+- **Be forward looking**: It's more important to me that the bug never happens
 again than it is to fix it right now.
--**Be thoughtful and complete**: Have a complete understanding of how it works.
+- **Be thoughtful and complete**: Have a complete understanding of how it works.
 Know what the second and third order consequences are.
--**Be intentional and proactive, not reactive**:We have too much to do for any of it to be random.
+- **Be intentional and proactive, not reactive**:We have too much to do for any of it to be random.
 Intentionality is important to make sure we get the results we want.
 
 ### Known Bugs
