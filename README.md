@@ -14,9 +14,6 @@ people. My job is to empower you do meaningful work and lead a dope life
 so that you're where you want to be and growing at the rate you want. 
 I hope that by creating that enviroment, we can work together for a long time.
 
-But since, we're super small, I also have to spend alot of time writing code 
-and making sure everything is running smoothly.
-
 ### Communication
 In general, I am always available on Slack. However, if you have a non-urgent
 task for me to do, please send it over email so it doesn't get lost. I use my
@@ -34,6 +31,8 @@ generally on silent to avoid distractions.
 I am a firm believer in being prepared for meetings. If you can, please do as
 much pre-work as you can so the meeting is more productive.
 
+Since we're small, I also have to spend alot of time writing code 
+and making sure everything is running smoothly.
 Feel free to book time on my calendar between 10am and 4pm. Before 10 and after 4, I am
 usually coding or engaged in deep work
 
@@ -43,8 +42,8 @@ This is where we focus on the company. We use this time to solve some problem, s
 decision. We should know what the goal of the meeting is.
 ##### Personal 1:1s
 This is where we focus on you. You tell me what's good or bad. Tell me how I
-can make your life easier. A good framework is tell me things you want **more of,
-less of, or to stop**. We can focus on things that are beyond the moment like
+can make your life easier. A good framework is tell me things you want **more** of,
+**less** of, or to **stop**. We can focus on things that are beyond the moment like
 your personal / career development. Talk about anything / everything!
 
 ### Feedback
