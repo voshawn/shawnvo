@@ -47,13 +47,14 @@ can make your life easier. A good framework is tell me things you want **more** 
 your personal / career development. Talk about anything / everything!
 
 ### Feedback
+We should feel safe delivering feedback to each other. There will never be any punishment 
+associated with delivering or receiving feedback. If anything, we reward that.
 I think feedback should:
 - Include positive and negative
 - Be delivered as real-time as possible
 - Have the intention of helping the other person grow
 - Address the behavior or action, not the person
 - Be actionable
-We should feel safe delivering feedback to each other. There will never be any punishment for delivering feedback. 
 ##### How I Give
 - If it's coding / engineering related, I will most likely tell you as I notice it.
 It will probably be unstructured. These will be more like *Learning Moments*,
