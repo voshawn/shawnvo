@@ -19,7 +19,7 @@ In general, I am always available on Slack. However, if you have a non-urgent
 task for me to do, please send it over email so it doesn't get lost. I use my
 mailbox as a to-do list.
 
-Sometimes, I will dump information on Slack because I'm thinkign about it right
+Sometimes, I will dump information on Slack because I'm thinking about it right
 now, but I don't necessarily expect you to respond immediately.
 If it is unrelated to something we recently talked about or on nights / weekends,
 you should feel comfortable responding when it's most convenient.
@@ -39,7 +39,7 @@ usually coding or engaged in deep work
 In general, we have two types of meetings:
 ##### Working meetings
 This is where we focus on the company. We use this time to solve some problem, share information, or make a
-decision. We should know what the goal of the meeting is.
+decision. We should know what the goal of the meeting is prior to meeting.
 ##### Personal 1:1s
 This is where we focus on you. You tell me what's good or bad. Tell me how I
 can make your life easier. A good framework is tell me things you want **more** of,
@@ -65,7 +65,7 @@ good or bad, what I think you should do.
 seriously or think it's a real problem.
 - I appreciate things when they are delivered in a rational, not emotional way.
 - Help me understand the *why* and help me come up with a *solution*.
-- If I get defensive, it's more likely because I am trying to understand the rational,
+- If I seem defensive, it's more likely because I am trying to understand the rational,
 not because I'm getting upset.
 
 ### Principles / Values
@@ -86,7 +86,7 @@ Intentionality is important to make sure we get the results we want.
 ### Known Bugs
 These are things I am currently working on. If you notice any of these things, let me know.
 - I'm quite prone to analysis paralysis.
-- I tend to shut down ideas if I think it's not possible, rather than finding ways to
+- I sometimes shut down ideas if I think it's not possible, rather than finding ways to
 make it possible.
 - I get irritable when I'm hungry. If you have really bad news, tell me after
 lunch.
