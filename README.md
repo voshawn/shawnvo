@@ -80,8 +80,8 @@ try to google it before reinventing the wheel or asking around.
 - **Be forward looking**: It's more important to me that the bug never happens
 again than it is to fix it right now.
 - **Be thoughtful and complete**: Have a complete understanding of how it works.
-Know what the second and third order consequences are.
-- **Be intentional and proactive, not reactive**:We have too much to do for any of it to be random.
+Know what the second and third-order consequences are.
+- **Be intentional and proactive, not reactive**: We have too much to do for any of it to be random.
 Intentionality is important to make sure we get the results we want.
 
 ### Known Bugs
