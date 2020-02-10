@@ -16,10 +16,11 @@ I hope that by creating that enviroment, we can work together for a long time.
 
 ### Communication
 In general, I am always available on Slack. However, if you have a non-urgent
-task for me to do, please send it over email so it doesn't get lost. I use my
-mailbox as a to-do list.
+task for me to do, please add it to my To Do List. This To Do List is a Google Doc
+where anyone on the team can assign work to me. (Ask for the invite if you don't already
+have access.)
 
-Sometimes, I will dump information on Slack because I'm thinking about it right
+Sometimes, I will dump information to you on Slack because I'm thinking about it right
 now, but I don't necessarily expect you to respond immediately.
 If it is unrelated to something we recently talked about or on nights / weekends,
 you should feel comfortable responding when it's most convenient.
@@ -33,8 +34,10 @@ much pre-work as you can so the meeting is more productive.
 
 Since we're small, I also have to spend alot of time writing code 
 and making sure everything is running smoothly.
-Feel free to book time on my calendar between 10am and 4pm. Before 10 and after 4, I am
-usually coding or engaged in deep work
+Feel free to book time on my calendar on my "Meeting Days" which are 
+Monday, Wednesay, and Fridays. The other days are my "Maker Days" which I try to
+reserve for coding. Occassionally, I will swap days so you can just look at my calendar
+for the most up to date version.
 
 In general, we have two types of meetings:
 ##### Working meetings
@@ -89,8 +92,7 @@ These are things I am currently working on. If you notice any of these things, l
 - I'm quite prone to analysis paralysis.
 - I sometimes shut down ideas if I think it's not possible, rather than finding ways to
 make it possible.
-- I get irritable when I'm hungry. If you have really bad news, tell me after
-lunch.
+- I can get a bit irritable when I'm tired or hungry. 
 - If you see me not living up to anything included please let me know.
 It’s possible that I’ve changed my mind (👍). More likely I’m dropping the ball (👎).
 Either way I’d like to know.
