@@ -10,9 +10,9 @@ pull requests are welcome!
 ### About My Job
 Here are my main responsibilties at the moment:
 1. Attact and bring the best people on our team. Our company will only be as great as the people on the team. 
-2. Create an enviroment for you to do meaningful work and lead a dope life
+2. Create an enviroment for you to do meaningful work and have an amazing life
    so that you're where you want to be and growing at the rate you want. 
-   If i do this well, I hope we can work together for a long time.
+   If I do this well, I hope we can work together for a long time.
 3. Provide context on priorities, why things are a certain way, why we do certain things, and where we want to go.
    I have a lot of our company's historical and "global" context, so by sharing it with you, you can make the best 
    decisions for us. 
