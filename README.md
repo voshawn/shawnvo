@@ -8,7 +8,7 @@ Keep in mind that this document, like myself, is a work in progress. Issues and
 pull requests are welcome!
 
 ### About My Job
-Here are my main responsibilties at the moment:
+Here are my main responsibilities at the moment:
 1. Attract and bring the best people on our team. Our company will only be as great as the people on the team. 
 2. Create an environment for you to do meaningful work and have an amazing life
    so that you're where you want to be and growing at the rate you want. 
@@ -39,7 +39,7 @@ In addition, if it is worth having a meeting for, it is probably worth taking no
 
 Since we're small, I also have to spend alot of time with individual contributions as well.
 Feel free to book time on my calendar on my "Meeting Days" which are 
-Monday, Wednesay, and Thursday. The other days are my "Maker Days" which I try to
+Monday, Wednesday, and Thursday. The other days are my "Maker Days" which I try to
 reserve for deep work, coding, or strategic planning. 
 
 In general, we have two types of meetings:
