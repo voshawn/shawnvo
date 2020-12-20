@@ -1,5 +1,4 @@
 # How to Shawn
-Pull requests welcome!
 
 ### What is this?
 Hi, I'm so glad we are working together. In order to make this an awesome
