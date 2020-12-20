@@ -78,7 +78,7 @@ not because I'm getting upset.
 ### Principles / Values
 In addition to the company values, here are some things that I really like.
 - **Deep Work**: I think that in order to be really innovative or write great
-code, we need have uniterrupted time. I will try to respect your deep work time
+code, we need have uninterrupted time. I will try to respect your deep work time
 so let me know if I'm bothering you.
 - **Resourcefulness**: Sometimes we need novel solutions.
 Sometimes we just need to look it up. For things that we can look up, always
