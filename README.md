@@ -9,16 +9,21 @@ Keep in mind that this document, like myself, is a work in progress. Issues and
 pull requests are welcome!
 
 ### About My Job
-Our company needs to attact and maintain the best
-people. My job is to empower you do meaningful work and lead a dope life
-so that you're where you want to be and growing at the rate you want. 
-I hope that by creating that enviroment, we can work together for a long time.
+Here are my main responsibilties at the moment:
+1. Attact and bring the best people on our team. Our company will only be as great as the people on the team. 
+2. Create an enviroment for you to do meaningful work and lead a dope life
+   so that you're where you want to be and growing at the rate you want. 
+   If i do this well, I hope we can work together for a long time.
+3. Provide context on priorities, why things are a certain way, why we do certain things, and where we want to go.
+   I have a lot of our company's historical and "global" context, so by sharing it with you, you can make the best 
+   decisions for us. 
+4. Handle high priority and complex issues that we haven't hired someone for yet. My goal is that eventually
+   I make myself redundant. 
+
 
 ### Communication
-In general, I am always available on Slack. However, if you have a non-urgent
-task for me to do, please add it to my To Do List. This To Do List is a Google Doc
-where anyone on the team can assign work to me. (Ask for the invite if you don't already
-have access.)
+In general, I am always available on Slack. Since most of my work is internal, I'll
+only check my emails once or twice a day so that's generally not the best place to reach me. 
 
 Sometimes, I will dump information to you on Slack because I'm thinking about it right
 now, but I don't necessarily expect you to respond immediately.
@@ -29,19 +34,18 @@ I am notoriously bad at unscheduled phone calls and text messages since my phone
 generally on silent to avoid distractions.
 
 ### Meetings
-I am a firm believer in being prepared for meetings. If you can, please do as
-much pre-work as you can so the meeting is more productive.
+Time is our most important asset. I am a firm believer in being prepared for meetings. 
+If you can, please do as much pre-work as you can so the meeting is more productive. 
+In addition, if it is worth having a meeting for, it is probably worth taking notes so we don't forget.
 
-Since we're small, I also have to spend alot of time writing code 
-and making sure everything is running smoothly.
+Since we're small, I also have to spend alot of time with individual contributions as well.
 Feel free to book time on my calendar on my "Meeting Days" which are 
-Monday, Wednesay, and Fridays. The other days are my "Maker Days" which I try to
-reserve for coding. Occassionally, I will swap days so you can just look at my calendar
-for the most up to date version.
+Monday, Wednesay, and Thursday. The other days are my "Maker Days" which I try to
+reserve for deep work, coding, or strategic planning. 
 
 In general, we have two types of meetings:
 ##### Working meetings
-This is where we focus on the company. We use this time to solve some problem, share information, or make a
+This is where we focus on company issues. We use this time to solve some problem, share information, or make a
 decision. We should know what the goal of the meeting is prior to meeting.
 ##### Personal 1:1s
 This is where we focus on you. You tell me what's good or bad. Tell me how I
@@ -89,11 +93,15 @@ Intentionality is important to make sure we get the results we want.
 
 ### Known Bugs
 These are things I am currently working on. If you notice any of these things, let me know.
-- I'm quite prone to analysis paralysis.
-- I sometimes shut down ideas if I think it's not possible, rather than finding ways to
-make it possible.
+- During stressful / meeting heavy days, I might be pretty curt. Don't read into brief replies too much.
+  Chances are, I'm just trying to quickly solve the problem.
+- I can come off as annoyed when things that seem clear to me isn't clear for others. 
+- Sometimes when I really want to understand something, I go into "digging mode" and will ask a rapid series of questions. 
+  Don't worry, you're not under attack and it's okay to tell me if you don't know or unsure. This happens often 
+  when there is a bug in the system or if I'm trying to understand a concept or product feature. 
 - I can get a bit irritable when I'm tired or hungry. 
-- If you see me not living up to anything included please let me know.
+
+If you see me not living up to anything included please let me know.
 It’s possible that I’ve changed my mind (👍). More likely I’m dropping the ball (👎).
 Either way I’d like to know.
 
