@@ -29,7 +29,7 @@ Below is how I try to use "flashtags" in my statements.
 - **#fyi or #idea:** I haven't spent a lot of time thinking about it. You can read it or not. Act on it or not. No response needed or expected.
 - **#suggestion:** Here's something I would do if I were you. But, I'm not you -- and you own this, so your call. Just consider it and weigh it against other things you're considering. I won't be offended if you go another way. A quick reaction/response would be appreciated (so I can learn what kinds of suggestions are useful/valuable), but is not necessary.
 - **#recommndation:** I've thought about this a lot. It's kept me up at night. I dug in. I think I understand the tradeoffs. You can choose not to take te recommendation, and go your own way, but please do it for good reasons.  Please dig in a bit yourself and have a well-reasoned rationale for why you don’t want to take the recommendation. Please don’t ignore or dismiss it out of hand. A response (either way) is politely requested.
-- **#Plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's huddle.
+- **#plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's huddle.
 
 ### My Time Preferences 
 0. **My Mornings:** Reserved mostly for my "deep work" time, preparing for meetings that day, or taking external meetings. Many of my best ideas are thoughts I have during a morning workout. 
