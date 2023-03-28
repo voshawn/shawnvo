@@ -31,9 +31,6 @@ Below is how I try to use "flashtags" in my statements.
 - **#recommndation:** I've thought about this a lot. It's kept me up at night. I dug in. I think I understand the tradeoffs. You can choose not to take te recommendation, and go your own way, but please do it for good reasons.  Please dig in a bit yourself and have a well-reasoned rationale for why you don’t want to take the recommendation. Please don’t ignore or dismiss it out of hand. A response (either way) is politely requested.
 - **#Plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's huddle.
 
-### Meetings
-Time is our most important asset. I am a firm believer in being prepared for meetings. If you can, please do as much pre-work as you can so the meeting is more productive. In addition, I expect that you are fully engaged (no slacking) and someone is taking notes. If you feel like this meeting isn't relevant to you, you can drop off. 
-
 ### My Time Preferences 
 0. **My Mornings:** Reserved mostly for my "deep work" time, preparing for meetings that day, or taking external meetings. Many of my best ideas are thoughts I have during a morning workout. 
 1. **Strategy Monday:** This is where I have my "Strategy" meetings to set the pace for the week. This usually includes Exec Session and OKR Check-ins. 
@@ -43,14 +40,16 @@ Time is our most important asset. I am a firm believer in being prepared for mee
 5. **Staff Friday:** My ideal friday will be to sit in on the team demos, lead a productive staff meeting, and have a series of skip-level 1:1s in the afternoon. 
 6. **Weekend Review:** Usually on a Saturday or Sunday, I will spend a few hours reviewing our KPIs and OKR updates to help me share context and prioritize the next week. 
 
+### Meetings
+Time is our most important asset. I am a firm believer in being prepared for meetings. If you can, please do as much pre-work as you can so the meeting is more productive. In addition, I expect that you are fully engaged (no slacking) and someone is taking notes. If you feel like this meeting isn't relevant to you, you can drop off. 
 
-In general, we have three types of meetings:
-##### Working Sessions
+In general, we have two types of meetings:
+##### 1) Working Sessions
 This is where we focus on company issues. We use this time to solve some problem, share information, or make a decision. We should know what the goal of the meeting is prior to meeting. 
 
 For these meetings, I would appreciate you sending me context beforehand and if you do so, you can expect me to be prepared and fully engaged during the meeting.
 
-##### Personal 1:1s
+##### 2) Personal 1:1s
 This is where we focus on you. You tell me what's good or bad. Tell me how I can make your life easier. A good framework is tell me things you want **more** of, **less** of, or to **stop**. We should focus on things that are beyond the moment like your personal / career development. 
 
 I want to avoid this being status update on your department since I should be able to get status updates through other channels. However we can certainly talk about some of the challenges and problems you are working through. 
