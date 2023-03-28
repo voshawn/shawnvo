@@ -29,7 +29,7 @@ Below is how I try to use "flashtags" in my statements.
 - **#fyi or #idea:** I haven't spent a lot of time thinking about it. You can read it or not. Act on it or not. No response needed or expected.
 - **#suggestion:** Here's something I would do if I were you. But, I'm not you -- and you own this, so your call. Just consider it and weigh it against other things you're considering. I won't be offended if you go another way. A quick reaction/response would be appreciated (so I can learn what kinds of suggestions are useful/valuable), but is not necessary.
 - **#recommndation:** I've thought about this a lot. It's kept me up at night. I dug in. I think I understand the tradeoffs. You can choose not to take te recommendation, and go your own way, but please do it for good reasons.  Please dig in a bit yourself and have a well-reasoned rationale for why you don’t want to take the recommendation. Please don’t ignore or dismiss it out of hand. A response (either way) is politely requested.
-_ **#Plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's chat. Maybe even in (gasp!) person.
+- **#Plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's huddle.
 
 ### Meetings
 Time is our most important asset. I am a firm believer in being prepared for meetings. If you can, please do as much pre-work as you can so the meeting is more productive. In addition, I expect that you are fully engaged (no slacking) and someone is taking notes. If you feel like this meeting isn't relevant to you, you can drop off. 
@@ -69,6 +69,7 @@ I think feedback should:
 ##### How I Give
 - If it's something tactical, I will most likely tell you as I notice it. It will probably be unstructured. These will be more like *Learning Moments*, so feel free to ask questions to clarify. (ex. Hey this might be a better way to do X,Y,Z...) 
 - If it's something behavioral, I will try to find examples and synthesize it a bit more. This will likely come through in our 1:1s, feedback circles, or quarterly check-ins. 
+
 ##### How I Receive
 - Be direct, calm, and serious. If it is delivered jokingly, I might not take it seriously or think it's a real problem.
 - I appreciate things when they are delivered in a rational, not emotional way.
@@ -88,7 +89,7 @@ In order for me to delegate effectively, there are three things we need to be al
 
 1. I need to trust that you deeply understand the problem that we are trying to solve. It should be clear what the "success criteria" is. This is not "what needs to be done" but "what is the outcome or result if we do it well". 
 2. I need to trust that you are willing AND able to do the job execeptionally well. If you don't feel like you have the ability to take it on, I can help make sure you have proper context and share how I might approach it. 
-3. I need to trust that you have the right priority and urgency for the work that needs to be done. We need to align on what is most important at the time. This is especially important since we often have more work than time so we need to be able to prioritize effectively. 
+3. I need to trust that you have the right priority and urgency levels for the work that needs to be done. We need to align on what is most important at the time. This is especially important since we often have more work than time so we need to be able to prioritize effectively. 
 
 ### Known Bugs
 These are things I am currently working on. If you notice any of these things, let me know.
@@ -97,8 +98,7 @@ These are things I am currently working on. If you notice any of these things, l
 - Sometimes when I really want to understand something, I go into "digging mode" and will ask a rapid series of questions. Don't worry, you're not under attack and it's okay to tell me if you don't know or unsure. This happens often when there is a bug in the system or if I'm trying to understand a concept or product feature. 
 - I am very prone to typos, especially when I am responding from my phone or typing quickly. If a sentence doesn't make sense, there's a good chance i just typo'ed something. You should definitely ask for clarification. If there are typos in this doc, let me know! 
 
-If you see me not living up to anything in this document please let me know.
-It’s possible that I’ve changed my mind (👍). More likely I’m dropping the ball (👎).
+If you see me not living up to anything in this document please let me know. It’s possible that I’ve changed my mind (👍). More likely I’m dropping the ball (👎).
 Either way I’d like to know.
 
 
