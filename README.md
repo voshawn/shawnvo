@@ -18,7 +18,7 @@ In general, I am always available on Slack. Since most of my work is internal, I
 Sometimes, I will dump information to you on Slack because I'm thinking about it right now, but I don't necessarily expect you to respond immediately.
 If it is unrelated to something we recently talked about or if it's really early, really late, or on weekends, you should feel comfortable responding when it's most convenient.
 
-I expect that you set your own slack "notifications" preferences based on your working hours. If it is truly an emergency I will "notify anyway". I have done this maybe 2 times in the last year.  I believe this is the best way for us to be able to feel comfortable detaching. 
+I expect that you set your own Slack "notifications preferences" based on your working hours. If it is truly an emergency I will "notify anyway". I have done this maybe 2 times in the last year.  I believe this is the best way for us to be able to feel comfortable detaching. 
 
 I am notoriously bad at unscheduled phone calls and text messages since my phone is generally on silent to avoid distractions.
 
@@ -26,23 +26,22 @@ I am notoriously bad at unscheduled phone calls and text messages since my phone
 In a fully remote setting, it is often hard to tell how strong a person feels about a certain idea. We want to encourage people to share their thoughts freely. However, whenthe CTO makes a statement, it might be perceived to be a strong directive, when it might be just a mere suggestion. 
 Below is how I try to use "flashtags" in my statements. 
 
-* **#fyi or #idea:** I haven't spent a lot of time thinking about it. You can read it or not. Act on it or not. No response needed or expected.
-* **#suggestion:** Here's something I would do if I were you. But, I'm not you -- and you own this, so your call. Just consider it and weigh it against other things you're considering. I won't be offended if you go another way. A quick reaction/response would be appreciated (so I can learn what kinds of suggestions are useful/valuable), but is not necessary.
-* **#recommndation:** I've thought about this a lot. It's kept me up at night. I dug in. I think I understand the tradeoffs. You can choose not to take te recommendation, and go your own way, but please do it for good reasons.  Please dig in a bit yourself and have a well-reasoned rationale for why you don’t want to take the recommendation. Please don’t ignore or dismiss it out of hand. A response (either way) is politely requested.
-* **#Plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's chat. Maybe even in (gasp!) person.
+- **#fyi or #idea:** I haven't spent a lot of time thinking about it. You can read it or not. Act on it or not. No response needed or expected.
+- **#suggestion:** Here's something I would do if I were you. But, I'm not you -- and you own this, so your call. Just consider it and weigh it against other things you're considering. I won't be offended if you go another way. A quick reaction/response would be appreciated (so I can learn what kinds of suggestions are useful/valuable), but is not necessary.
+- **#recommndation:** I've thought about this a lot. It's kept me up at night. I dug in. I think I understand the tradeoffs. You can choose not to take te recommendation, and go your own way, but please do it for good reasons.  Please dig in a bit yourself and have a well-reasoned rationale for why you don’t want to take the recommendation. Please don’t ignore or dismiss it out of hand. A response (either way) is politely requested.
+_ **#Plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's chat. Maybe even in (gasp!) person.
 
 ### Meetings
 Time is our most important asset. I am a firm believer in being prepared for meetings. If you can, please do as much pre-work as you can so the meeting is more productive. In addition, I expect that you are fully engaged (no slacking) and someone is taking notes. If you feel like this meeting isn't relevant to you, you can drop off. 
 
 ### My Time Preferences 
-*My mornings* are reserved mostly for my "deep work" time, preparing for meetings that day, or taking external meetings. 
-
-*Strategy Monday:* This is where I have my "Strategy" meetings to set the pace for the week. This usually includes Exec Session and OKR Check-ins. 
-*Deep Work Tuesday:* This is for me to work on my big "rocks" for the week. 
-*1:1 Wednesday:* This day is for you. This is where we will have most of our 1:1s (see below). 
-*Working Sessions Thursdays:* This time is for me to help with your team / department goals. I can provide feedback, share context, help problem solve.
-*Staff Friday:* My ideal friday will be to sit in on the team demos, lead a productive staff meeting, and have a series of skip-level 1:1s in the afternoon. 
-*Weekend Review:* Usually on a Saturday or Sunday, I will spend a few hours reviewing our KPIs and OKR updates to help me share context and prioritize the next week. 
+0. **My Mornings:** Reserved mostly for my "deep work" time, preparing for meetings that day, or taking external meetings. Many of my best ideas are thoughts I have during a morning workout. 
+1. **Strategy Monday:** This is where I have my "Strategy" meetings to set the pace for the week. This usually includes Exec Session and OKR Check-ins. 
+2. **Deep Work Tuesday:** This is for me to work on my big "rocks" for the week. 
+3. **1:1 Wednesday:** This day is for you. This is where we will have most of our 1:1s (see below). 
+4. **Working Sessions Thursdays:** This time is for me to help with your team / department goals. I can provide feedback, share context, help problem solve.
+5. **Staff Friday:** My ideal friday will be to sit in on the team demos, lead a productive staff meeting, and have a series of skip-level 1:1s in the afternoon. 
+6. **Weekend Review:** Usually on a Saturday or Sunday, I will spend a few hours reviewing our KPIs and OKR updates to help me share context and prioritize the next week. 
 
 
 In general, we have three types of meetings:
