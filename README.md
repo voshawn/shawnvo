@@ -40,6 +40,9 @@ Below is how I try to use "flashtags" in my statements.
 5. **Staff Friday:** My ideal friday will be to sit in on the team demos, lead a productive staff meeting, and have a series of skip-level 1:1s in the afternoon. 
 6. **Weekend Review:** Usually on a Saturday or Sunday, I will spend a few hours reviewing our KPIs and OKR updates to help me share context and prioritize the next week. 
 
+
+In order for us to sync up our calendars, I would encourage people who report into me to have a calendar schedule that allows us to keep Wednesdays open for collaboration.  
+
 ### Meetings
 Time is our most important asset. I am a firm believer in being prepared for meetings. If you can, please do as much pre-work as you can so the meeting is more productive. In addition, I expect that you are fully engaged (no slacking) and someone is taking notes. If you feel like this meeting isn't relevant to you, you can drop off. 
 
