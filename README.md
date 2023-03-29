@@ -23,13 +23,15 @@ I expect that you set your own Slack "notifications preferences" based on your w
 I am notoriously bad at unscheduled phone calls and text messages since my phone is generally on silent to avoid distractions.
 
 #### Flash Tags
-In a fully remote setting, it is often hard to tell how strong a person feels about a certain idea. We want to encourage people to share their thoughts freely. However, whenthe CTO makes a statement, it might be perceived to be a strong directive, when it might be just a mere suggestion. 
+In a fully remote setting, it is often hard to tell how strong a person feels about a certain idea. We want to encourage people to share their thoughts freely. However, when the CTO makes a statement, it might be perceived to be a strong directive, when it might be just a mere suggestion. 
 Below is how I try to use "flashtags" in my statements. 
 
 - **#fyi or #idea:** I haven't spent a lot of time thinking about it. You can read it or not. Act on it or not. No response needed or expected.
 - **#suggestion:** Here's something I would do if I were you. But, I'm not you -- and you own this, so your call. Just consider it and weigh it against other things you're considering. I won't be offended if you go another way. A quick reaction/response would be appreciated (so I can learn what kinds of suggestions are useful/valuable), but is not necessary.
 - **#recommndation:** I've thought about this a lot. It's kept me up at night. I dug in. I think I understand the tradeoffs. You can choose not to take te recommendation, and go your own way, but please do it for good reasons.  Please dig in a bit yourself and have a well-reasoned rationale for why you don’t want to take the recommendation. Please don’t ignore or dismiss it out of hand. A response (either way) is politely requested.
 - **#plea:** We don't like issuing edicts or directives. But...please, please, please just do this. Trust works both ways, and I need you to trust me on this. If you still feel compelled to resist, something’s not right, let's huddle.
+
+If I make a statement where the intention isn't clear, feel free to ask if its and #idea or #recommendation. 
 
 ### My Time Preferences 
 0. **My Mornings:** Reserved mostly for my "deep work" time, preparing for meetings that day, or taking external meetings. Many of my best ideas are thoughts I have during a morning workout. 
@@ -80,7 +82,7 @@ I think feedback should:
 
 ### Principles / Values
 In addition to the company values, here are some things that I personally value.
-- **Deep Work**: I think that in order to be really innovative and deliver excellent quality work, we need have uninterrupted time. I will try to respect your deep work timeso let me know if I'm bothering you.
+- **Deep work**: I think that in order to be really innovative and deliver excellent quality work, we need have uninterrupted time. I will try to respect your deep work timeso let me know if I'm bothering you.
 - **Resourcefulness**: Sometimes we need novel solutions. Sometimes we just need to look it up. For things that we can look up, always try to find resources before reinventing the wheel or asking someone else what to do.
 - **Be forward looking**: It's more important to me that an issue never happens again than it is to fix it right now.
 - **Be thoughtful and complete**: Have a complete understanding of how it works. Know what the second and third-order consequences are.
