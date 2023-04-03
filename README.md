@@ -37,8 +37,8 @@ If I make a statement where the intention isn't clear, feel free to ask if its a
 0. **My Mornings:** Reserved mostly for my "deep work" time, preparing for meetings that day, or taking external meetings. Many of my best ideas are thoughts I have during a morning workout. 
 1. **Strategy Monday:** This is where I have my "Strategy" meetings to set the pace for the week. This usually includes Exec Session and OKR Check-ins. 
 2. **Deep Work Tuesday:** This is for me to work on my big "rocks" for the week. 
-3. **Working Session Wednesday:** This time is for us to work on the business. I am available to help with your team / department goals. I can provide feedback, share context, help problem solve.
-4. **1:1 Thursdays:**  This day is for our personal growth. This is where we will have most of our 1:1s (see below). We can also schedule retros on these days. 
+3. **1:1 Wednesday:** This day is for our personal growth. This is where we will have most of our 1:1s (see below). We can also schedule retros on these days. 
+4. **Working Session Thursdays:** This time is for us to work on the business. I am available to help with your team / department goals. I can provide feedback, share context, help problem solve.
 5. **Staff Friday:** My ideal friday will be to sit in on the team demos, lead a productive staff meeting, and have a series of skip-level 1:1s in the afternoon. 
 6. **Weekend Review:** Usually on a Saturday or Sunday, I will spend a few hours reviewing our KPIs and OKR updates to help me share context and prioritize the next week. 
 
