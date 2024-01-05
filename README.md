@@ -7,9 +7,9 @@ Keep in mind that this document, like myself, is a work in progress. Issues and 
 ### About My Job 
 Here are my main responsibilities at the moment as CTO and Integrator:
 1. I help shape our company's long-term strategy and vision, but ultimately my job is to ensure that all teams across the organization are working together to realize this vision. 
-2. Create an environment for all employees to do their most impactful work and lead their most fulfilling lives. I aim to build a system that aligns individual aspirations with our company's needs and objectives.  I want to ensure that you're where you want to be and growing at your desired rate. If I do this well, I hope we can work together for a long time. And if the day comes when that alignment is no longer possible, I want you to look back on Denim and one of the best places you have ever worked. 
+2. Create an environment for all employees to do their most impactful work and lead their most fulfilling lives. I aim to build a system that aligns individual aspirations with our company's needs and objectives.  I want to ensure that you're where you want to be and growing at your desired rate. If I do this well, I hope we can work together for a long time. And if the day comes when that alignment is no longer possible, I want you to look back on Denim as one of the best places you have ever worked. 
 3. Provide context on priorities, why things are a certain way, why we do certain things, and where we want to go. I have a lot of our company's historical and "global" context, so by sharing it with you, you can make the best decisions for the company. 
-4. Temporarily handle high-priority and complex issues for which we haven't hired or trained someone yet. My goal is that eventually, I make myself redundant. 
+4. Temporarily handle high-priority and complex issues for which we haven't hired or trained someone yet. My goal is that, eventually, I make myself redundant. 
 
 
 ### Communication
